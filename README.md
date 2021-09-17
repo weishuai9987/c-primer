@@ -1,2 +1,2 @@
-# c-primer
-联系题目
+# c++primer
+练习题目
